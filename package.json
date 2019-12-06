@@ -1,0 +1,22 @@
+{
+  "name": "@evantianx/pipeline",
+  "version": "1.0.0",
+  "description": "A dead simple tool to pipeline function arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evantianx/pipeline.git"
+  },
+  "keywords": [
+    "pipeline"
+  ],
+  "author": "evantianx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evantianx/pipeline/issues"
+  },
+  "homepage": "https://github.com/evantianx/pipeline#readme"
+}
